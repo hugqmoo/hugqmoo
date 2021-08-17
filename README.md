@@ -2,7 +2,7 @@ Hi, I’m @hugqmoo
 
 Still getting a hang of GitHub and coding in general
 
-Also I speak English and 日本語
+Languages are Indonesian, English, and 日本語
 
 <!---
 hugqmoo/hugqmoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
