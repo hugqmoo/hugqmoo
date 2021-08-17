@@ -1,6 +1,6 @@
 Hi, I’m @hugqmoo
 
-I don't have anything I can put here yet － I'm still learning
+Still getting a hang of GitHub and coding in general
 
 Also I speak English and 日本語
 
