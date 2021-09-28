@@ -1,4 +1,4 @@
-Hi, I’m @hugqmoo
+Hi, I’m @hugqmu
 
 Still getting a hang of GitHub and coding in general
 
